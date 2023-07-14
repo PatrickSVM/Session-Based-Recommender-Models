@@ -8,7 +8,7 @@
 
 This repository contains the python package developed for my master thesis ["Incorporating Reinforcement Learning into Supervised Sequential Recommender Models"](http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-195251) in cooperation with IKEA. 
 
-At its core, the package contains the PyTorch implementations of the three models - [GRU4Rec](https://arxiv.org/abs/1511.06939), [SQN](https://dl.acm.org/doi/abs/10.1145/3397271.3401147) and [SMORL](https://dl.acm.org/doi/abs/10.1145/3488560.3498471) - together with the according evaluation framework. It forms the basis for all results provided in the [thesis](Thesis.pdf).
+At its core, the package contains the PyTorch implementations of the three models - [GRU4Rec](https://arxiv.org/abs/1511.06939), [SQN](https://dl.acm.org/doi/abs/10.1145/3397271.3401147) and [SMORL](https://dl.acm.org/doi/abs/10.1145/3488560.3498471) - together with the according evaluation framework. It forms the basis for all experiments and results provided in the [thesis](Thesis.pdf).
 
 ## Abstract
 
