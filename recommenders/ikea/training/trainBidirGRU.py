@@ -59,8 +59,7 @@ def train_BidirGRU4Rec(
     output_tokenizer=None,
 ):
     """
-    Trains GRU4Rec model with provided arguments.
-    Also used to pretrain embedding layer for diversity rewards
+    Trains Bidirectional-GRU4Rec model with provided arguments.
     """
 
     disable_pro_bar = not progress_bar

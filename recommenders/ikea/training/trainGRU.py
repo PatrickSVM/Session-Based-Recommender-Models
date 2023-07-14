@@ -59,7 +59,6 @@ def train_GRU4Rec(
 ):
     """
     Trains GRU4Rec model with provided arguments.
-    Also used to pretrain embedding layer for diversity rewards
     """
 
     disable_pro_bar = not progress_bar

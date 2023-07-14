@@ -62,7 +62,7 @@ def train_SMORL(
     save_pretrained_embeddings=True,
 ):
     """
-    Trains smorl model with provided arguments.
+    Trains SMORL model with provided arguments.
     """
 
     disable_pro_bar = not progress_bar
