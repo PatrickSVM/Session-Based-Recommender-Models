@@ -3,7 +3,7 @@
 ![Embedding Analysis Example](embedding_mirror_table.png)
 
 <p align="center">
-    Example visualization from Embedding Analysis
+    Example Visualization from Embedding Analysis
 
 
 This repository contains the python package developed for my master thesis ["Incorporating Reinforcement Learning into Supervised Sequential Recommender Models"](http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-195251) in cooperation with IKEA. 
@@ -19,6 +19,13 @@ In the context of the significant expansion of e-commerce, Recommender Systems h
 The package can be installed via `pip install .`
 
 All necessary dependencies can be found in the [environment-file](gpu-env.yml).
+
+<br/><br/>
+
+![Example prediction batches of all three models](img_desk_plants.png)
+
+<p align="center">
+    Example prediction batches of all three model classes
 
 
 
