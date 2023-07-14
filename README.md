@@ -1,6 +1,6 @@
 # Session Based Recommender Models
 
-![Embedding Analysis Example](embedding_mirror_table.png)
+![Embedding Analysis Example](img/embedding_mirror_table.png)
 
 <p align="center">
     Example Visualization from Embedding Analysis
@@ -22,7 +22,7 @@ All necessary dependencies can be found in the [environment-file](gpu-env.yml).
 
 <br/><br/>
 
-![Example prediction batches of all three models](img_desk_plants.png)
+![Example prediction batches of all three models](img/img_desk_plants.png)
 
 <p align="center">
     Example prediction batches of all three model classes
